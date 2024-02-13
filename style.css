@@ -1,3 +1,11 @@
 h1 {
     color: red;
 }
+
+.box {
+    margin: 40px;
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    background-color: coral;
+}
